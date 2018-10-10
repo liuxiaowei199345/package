@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeeplabOnAndroid</string>
+
+    <string name="label_original">原图</string>
+    <string name="label_mask">预测结果</string>
+    <string name="label_cropped">可视化结果</string>
+    <string name="label_no_image_selected">请点击右下角选择图片</string>
+
+</resources>
