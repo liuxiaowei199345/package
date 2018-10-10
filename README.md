@@ -1,2 +1,1 @@
-# Deeplab-tensorflow-AndroidDemo
-
+# Package
