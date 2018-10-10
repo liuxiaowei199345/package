@@ -1,2 +1,2 @@
-# DeeplabOnAndroid
+# Deeplab-tensorflow-AndroidDemo
 
